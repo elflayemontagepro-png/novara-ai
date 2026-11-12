@@ -1,1 +1,1 @@
-# novara-ai
+# novara-aigit clone https://x:art_v2_x_a3d2568a54ae99d5ae97f21a728b9c288c24c72d@31b91e7f9954ad8aa334d46f012bd8ed.artifacts.cloudflare.net/git/lee-production/lee-novara-ai-a0aabedc4eed4311.git novara-ai
